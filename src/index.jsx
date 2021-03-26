@@ -11,7 +11,7 @@ import '../assets/stylesheets/application.scss';
 //  https: true
 //});
 
-//search = (query) => { 
+//search = (query) => {
 //  giphy.search({
 //    q: query,
 //    rating: 'g',

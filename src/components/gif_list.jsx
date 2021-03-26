@@ -1,7 +1,6 @@
-import React from 'react'; 
+import React from 'react';
 
-export default GifList() {
+export default function GifList(props) {
+
 
 };
-
-export default GifList
